@@ -1,5 +1,5 @@
 # PHYS 1600/2600 Lecture materials
-**Spring 2019**
+**Spring 2020**
 ___
 
 All lecture materials and in-class workbooks will be stored in this repository. 
