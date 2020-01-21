@@ -19,7 +19,7 @@ These lecture materials are meant to supplement, not replace, in class lectures 
 ---
 
 ## Lecture Topics
-* Lecture 1: Introduction, lecture materials are contained in the [Introductory Material](https://github.com/PHYS1600Spring2019/IntroductoryMaterial) Repo.
+* Lecture 1: Introduction, lecture materials are contained in the [Introductory Material](https://github.com/PHYS1600Spring2020/IntroductoryMaterial) Repo.
 * Lecture 2: Solving 1st order initial value problems.
 * Lecture 3: Systems of coupled ODE's, object oriented programming intro.
 * Lecture 4: Newtons 2nd law, Building a physical model, more object oriented programming.
